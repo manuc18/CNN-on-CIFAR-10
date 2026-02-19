@@ -1,6 +1,4 @@
-# AI Studio Stage 2A – CNN on CIFAR-10
-
-This repository contains my submission for Stage 2A of the AI Research Studio selection process at Rishihood University.
+# AI Studio – CNN on CIFAR-10
 
 ## Objective
 Train a small CNN model on a subset of CIFAR-10 and conduct controlled experiments to study the impact of:
@@ -34,5 +32,4 @@ Train a small CNN model on a subset of CIFAR-10 and conduct controlled experimen
 ## Notebook
 See `AI_Studio_Stage2A.ipynb` for full implementation, plots, and analysis.
 
-## How to Run
-Open the notebook in Google Colab or Jupyter and run cells sequentially.
+
